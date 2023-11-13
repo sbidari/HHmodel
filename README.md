@@ -1,4 +1,4 @@
-# Codes to run the deterministic and stochastic version of the model in 'The Impact of Household Sizes on Measles Transmission: A Long-term Perspective'
+# Codes to run the model in 'The Impact of Household Sizes on Measles Transmission: A Long-term Perspective'
 ClassMixing.m and dependencies (State_to_Class_Mat_With_Elders.m,State_to_Class.m) - Generates mixing data for the models using data from dataInput folder for each year<br>
 contactData.m - create contact times data used by the model using POLYMOD data<br>
 
